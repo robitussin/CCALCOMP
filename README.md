@@ -6,7 +6,7 @@ Course Outline: https://believed-bongo-319.notion.site/CCALCOMP-446b0bb09b964519
 
 | Folder Name | Topic |
 | :---         |     :---:      |       
-| Week 1 - Introducton to Analysis of Algorithms   | |
+| Week 1 - Introduction to Analysis of Algorithms   | |
 | Week 2 - Graph Theory   | |
 | Week 3 - Proofs   | |
 | Week 4 - Analysis of Algorithms and Asymptotic Notations   | |
