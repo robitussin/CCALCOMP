@@ -6,15 +6,14 @@ Course Outline: https://believed-bongo-319.notion.site/CCALCOMP-446b0bb09b964519
 
 | Folder Name | Topic |
 | :---         |     :---:      |       
-| week_1   | |
-| week_2   | |
-| week_3   | |
-| week_4   | |
-| week_5  | |
-| week_6-7 | |
-| week_8   | |
-| week_9   | |
-| week_10   | |
-| week_11   | |
-| week_12   | |
+| Week 1 - Introducton to Analysis of Algorithms   | |
+| Week 2 - Graph Theory   | |
+| Week 3 - Proofs   | |
+| Week 4 - Analysis of Algorithms and Asymptotic Notations   | |
+| Week 5 - Search Algorithms  | |
+| Week 6 and 7 - Sorting Algorithms | |
+| Week 8 and 9 - Recursion and Recurrence relations   | |
+| Week 10 - Greedy Algorithms   | |
+| Week 11 - Dynamic Programming   | |
+| Week 12 - P and NP Classes   | |
 
