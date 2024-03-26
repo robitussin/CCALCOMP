@@ -12,7 +12,7 @@ Course Outline: https://believed-bongo-319.notion.site/CCALCOMP-446b0bb09b964519
 | Week 4 - Analysis of Algorithms and Asymptotic Notations   | Time Complexity and Space Complexiry, Big-O, Big-Omega and Big-Theta |
 | Week 5 - Search Algorithms  | |
 | Week 6 and 7 - Sorting Algorithms | |
-| Week 8 and 9 - Recursion and Recurrence relations   | Concept and description,Solving recurrence relations of recursive sorting algorithms, Solving recursive problems using recurrence relations |
+| Week 8 and 9 - Recursion and Recurrence relations   | Concept and description, Solving recurrence relations of recursive sorting algorithms, Solving recursive problems using recurrence relations |
 | Week 10 - Greedy Algorithms   | Concept, description, and heuristics, Problems solved by greedy algorithms, Applications |
 | Week 11 - Dynamic Programming   | Concept, description, and heuristics, Problems solved by DP, Applications|
 | Week 12 - P and NP Classes   | Concepts and properties of P, NP classes, Equivalence of definition, P vs NP problem, Applications|
